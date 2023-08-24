@@ -7,4 +7,4 @@
 
 ![info](https://github-readme-stats.vercel.app/api?username=imxiaomin&show_icons=true&theme=gotham&count_private=true)  
 
-![imxiaomin's Most used languages](https://github-readme-stats.vercel.app/api/top-langs？username=imxiaomin&show_icons=true&count_private=true&theme=gotham&layout=compact&hide=html) 
+<!--![imxiaomin's Most used languages](https://github-readme-stats.vercel.app/api/top-langs？username=imxiaomin&show_icons=true&count_private=true&theme=gotham&layout=compact&hide=html) ->
